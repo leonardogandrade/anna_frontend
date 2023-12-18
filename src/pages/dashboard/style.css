@@ -1,0 +1,20 @@
+.main-container {
+  display: flex;
+  background-color: #272936;
+  block-size: 100vh;
+  padding: 10vh 10vh 10vh 10vh;
+}
+
+.container-left {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: -70vh 10vh 0vh -5vh;
+}
+
+.container-right {
+  display: flex;
+  flex-direction: column;
+  margin: 5vh 0vh 0vh 0vh;
+}

@@ -1,0 +1,13 @@
+.main-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #24292e;
+}
+
+.login-container {
+  display: flex;
+  justify-content: center;
+  margin-top: -10%;
+}
